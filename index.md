@@ -11,3 +11,11 @@ A collection of half-baked whims and fancies in no particular order
          alt="Garfield_and_Odie_Trick_Or_Treating">
     <figcaption> It's spooky season.</figcaption>
 </figure>
+
+
+
+# Blog
+
+{% for post in site.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{% endfor %}
