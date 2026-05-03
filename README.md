@@ -5,7 +5,7 @@ A collection of half-baked whims and fancies in no particular order
 
 
 <figure>
-    <img src="{{ '/images/Garfield_and_Odie_Trick_Or_Treating.jpg' | relative_url }}"
+    <img src="{ 'keflingskorner/images/Garfield_and_Odie_Trick_Or_Treating.jpg'}"
         width="300" 
         height="250"
         alt="Garfield_and_Odie_Trick_Or_Treating">
