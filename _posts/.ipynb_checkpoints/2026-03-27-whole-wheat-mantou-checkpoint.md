@@ -60,18 +60,6 @@ This yields around 2-3 buns. Just scale the recipe as you'd like with the follow
  
 Came out dense and shiny instead of soft. Crumb felt gummy with high degree of elasticity and reminds me of an eraser. I think the hydration level is too high so it was difficult to develop the gluten. Potentially overproofed as well. Not much of a sweet flavor either. 
 
-
-
-<figure style="text-align: center;">
-  <img src="../images/ww_mantou/75_hydration.jpg"
-       alt="75% Hydration WW Mantou"
-       width="500"
-       height="200" />
-  <figcaption>
-    Quite a dense and rubbery crumb
-  </figcaption>
-</figure>
-
 -------------------------
 
   ##### 65% Hydration 
@@ -88,17 +76,6 @@ Came out dense and shiny instead of soft. Crumb felt gummy with high degree of e
 4. Steam on high 8 minutes. 10 min rest afterwards
 
 Result was much better. Bread felt much fluffier and didn't have that "damp" taste and feel to it. Still not very sleep but has a nice, slightly deeper flavour from the whole wheat flour. Not very sweet but was good if eaten with toppings. 
-
-<figure style="text-align: center;">
-  <img src="../images/ww_mantou/65_hydration.jpg"
-       alt="65% Hydration WW Mantou"
-       width="500"
-       height="200" />
-  <figcaption>
-    An improvement! A much lighter and fluffier crumb
-  </figcaption>
-</figure>
-
 
 -------------------------
 
