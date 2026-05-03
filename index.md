@@ -1,5 +1,7 @@
 ---
+layout: home
 title: Welcome to keflings korner!
+theme: minima
 ---
 
 A collection of half-baked whims and fancies in no particular order
@@ -14,7 +16,7 @@ A collection of half-baked whims and fancies in no particular order
 
 
 
-# Blog
+# Index
 
 {% for post in site.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
